@@ -1,5 +1,5 @@
 # N28B
-**Networking Infrastructure design for the new Block N28B, built for the
+Networking Infrastructure design for the new Block N28B, built for the
 Faculty of Computing. It provides a comprehensive plan for the layout of the new faculty
 building, including all facilities and laboratories, with detailed equipment placement that fits the
 customer's current and future requirements.
@@ -10,4 +10,4 @@ Additionally, the report details the connections between networking devices, suc
 and routers, alongside the cabling requirements, arranged both vertically and horizontally for
 optimal efficiency.
 Lastly, it addresses the IP addressing scheme and subnetting strategy, presenting the most
-suitable configuration for every lab in the N28B building**
+suitable configuration for every lab in the N28B building
